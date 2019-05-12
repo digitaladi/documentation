@@ -68,7 +68,7 @@ img{
     position: absolute;
     display: block;
     margin-top: -50px;
-    z-index: -3;
+    z-index: -5;
     filter: sepia(1);
     -webkit-filter: sepia(1);
 
