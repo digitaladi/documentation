@@ -41,7 +41,7 @@ table th, table td {
 td, th{
     padding: 5px;
 }
-
+/*teste*/
 thead{
     background: #812500; /* Old browsers */
     background: -moz-linear-gradient(left,  #812500 0%, #5f6c0a 99%); /* FF3.6-15 */
@@ -68,7 +68,7 @@ img{
     position: absolute;
     display: block;
     margin-top: -50px;
-    z-index: -2;
+    z-index: -3;
 
     /*filter: sepia(1);*/
     /*-webkit-filter: sepia(1);*/
