@@ -69,9 +69,8 @@ img{
     display: block;
     margin-top: -50px;
     z-index: -3;
-
-    /*filter: sepia(1);*/
-    /*-webkit-filter: sepia(1);*/
+    filter: sepia(1);
+    -webkit-filter: sepia(1);
 
 }
 
